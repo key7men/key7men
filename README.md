@@ -1,14 +1,6 @@
 <h2 style=''><img alt='space swim' src="./icons/space_float.gif" width='30' />Hey, let's make something interest.</h2>
 <p>Welcome to my universe! <b>I'm k7m, fullstack developer</b> from <img alt='earth' src='./icons/earth.gif' width='14'/>earth.</p>
 <table>
-    <thead style='display: none'>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    </thead>
     <tbody>
     <tr>
         <td colspan='4'><b>Program language I used</b></td></tr>
