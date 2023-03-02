@@ -7,12 +7,13 @@
     <tr><td colspan='4'>
         <img alt='B' src='./icons/bash.svg' />
         <img alt='C' src='./icons/clang.svg' />
-        <img alt='CPP' src='./icons/cpp.svg' />
         <img alt='CSS' src='./icons/css.svg' />
         <img alt='Dart' src='./icons/dart.svg' />
         <img alt='Go' src='./icons/golang.svg' />
         <img alt='HTML' src='./icons/html.svg' />
         <img alt='Javascript' src='./icons/javascript.svg' />
+        <img alt='Rust' src='./icons/rust.svg' />
+        <img alt='Swift' src='./icons/swift.svg' />
         <img alt='TypeScript' src='./icons/typescript.svg' />
         <img alt='Python' src='./icons/python.svg' />
     </td>
